@@ -1,0 +1,17 @@
+{
+  "name": "dsa_drills",
+  "version": "1.0.0",
+  "description": "Some Data Structures and Algorithms problems and exercises solved with JavaScript",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
