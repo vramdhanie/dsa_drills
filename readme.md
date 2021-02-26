@@ -7,7 +7,7 @@ _A few problems and exercises solved in JavaScript_
 Clone this repository to your local machine.
 
 ```bash
-git clone
+git clone https://github.com/vramdhanie/dsa_drills.git
 ```
 
 To run the tests
