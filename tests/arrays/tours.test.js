@@ -90,7 +90,7 @@ describe("The Split Sum problem", () => {
         console.log(
           `Split Sum Algorithm 2 took ${runningTime} nanoseconds to sum 100 numbers`
         );
-        expect(runningTime).toBeLessThan(1000000);
+        expect(runningTime).toBeLessThan(10000000);
       });
       it("should take <100000000n to sum  1,000 numbers", () => {
         const numbers = Array(1000)
